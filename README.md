@@ -246,12 +246,13 @@ python "Python Tools/app.py" tool2        # Check any URL status
 
 ## 👤 Author
 
-**Yasser**
+**Yasser** — Network & Security Engineer  
 
-- GitHub: [@Yasser-02G](https://github.com/Yasser-02G)
-- Instagram: [@yasser*02*](https://www.instagram.com/yasser_02_/)
+🔗 GitHub: [@Yasser-02G](https://github.com/Yasser-02G)
 
-Feel free to open an _issue_ or _pull request_ for suggestions or improvements.
+🔗 Instagram: [@yasser*02*](https://www.instagram.com/yasser_02_/)
+
+Feel free to open an _issue_ or a _pull request_ if you have suggestions to improve this project.
 
 ---
 
